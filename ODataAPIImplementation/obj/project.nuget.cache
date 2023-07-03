@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "15g0ki69mYLzMPeXvV0loeC3hOEnJ3IP2MuAfS+y7142pLsiQW2lY+xeux1ozPK+vW/qqLFWk9Syh8Oa2sEmzw==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\ODataAPIImplementation\\ODataAPIImplementation\\ODataAPIImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svepuri\\.nuget\\packages\\microsoft.aspnetcore.odata\\8.1.1\\microsoft.aspnetcore.odata.8.1.1.nupkg.sha512",
+    "C:\\Users\\svepuri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\svepuri\\.nuget\\packages\\microsoft.odata.core\\7.15.0\\microsoft.odata.core.7.15.0.nupkg.sha512",
+    "C:\\Users\\svepuri\\.nuget\\packages\\microsoft.odata.edm\\7.15.0\\microsoft.odata.edm.7.15.0.nupkg.sha512",
+    "C:\\Users\\svepuri\\.nuget\\packages\\microsoft.odata.modelbuilder\\1.0.9\\microsoft.odata.modelbuilder.1.0.9.nupkg.sha512",
+    "C:\\Users\\svepuri\\.nuget\\packages\\microsoft.spatial\\7.15.0\\microsoft.spatial.7.15.0.nupkg.sha512",
+    "C:\\Users\\svepuri\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\svepuri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\svepuri\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\svepuri\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
